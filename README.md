@@ -16,5 +16,8 @@ If you have any questions, please contact us.
 ## Privacy Policy
 [View Privacy Policy](PRIVACY.md)
 
+[![Download on the Mac App Store](https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg)](https://apps.apple.com/app/gods-dice/id6757973296)
+
+
 (Reference: DOI 10.5281/zenodo.18227669 / Verified using NIST SP 800-22 Statistical Test Suite)
 NyoriWorks / Chronos Resonance Project
